@@ -26,7 +26,7 @@ This repository provides a boilerplate code for building an Express backend usin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/matija2209/express-boilerplate
 
 npm install
 
